@@ -16,9 +16,9 @@
   <a href="#license">License</a>
 </p>
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FYatish0833%2FVariantSpark-Azure-deployment%2Fmaster%2Fazuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Faehrc%2FVariantSpark-Azure-deployment%2Fmaster%2Fazuredeploy.json)
 
-[![Visualize](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FYatish0833%2FVariantSpark-Azure-deployment%2Fmaster%2Fazuredeploy.json)
+[![Visualize](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Faehrc%2FVariantSpark-Azure-deployment%2Fmaster%2Fazuredeploy.json)
 
 ## Why Bicep?
 
@@ -26,7 +26,7 @@ Bicep is free and supported by Microsoft support and is fun, easy, and productiv
 More resources available at this [Link](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview#benefits-of-bicep-versus-other-tools)
 
 ## Architecture and Key Features
-![Architecture](https://github.com/Yatish0833/VariantSpark-Azure-deployment/raw/master/Architecture.jpg)
+![Architecture](https://github.com/aehrc/VariantSpark-Azure-deployment/raw/master/Architecture.jpg)
 
 
 
@@ -78,7 +78,7 @@ To clone and run this repo, you'll need [Git](https://git-scm.com), [Bicep](http
 From your command line:
 
 ### Option 1:
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FYatish0833%2FVariantSpark-Azure-deployment%2Fmaster%2Fazuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Faehrc%2FVariantSpark-Azure-deployment%2Fmaster%2Fazuredeploy.json)
 
 Click on the above link to deploy the template.
 
@@ -88,7 +88,7 @@ If you need to customize the template you can use the following command:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Yatish0833/VariantSpark-Azure-deployment.git
+$ git clone https://github.com/aehrc/VariantSpark-Azure-deployment.git
 
 # Go into the repository
 $ cd variant-databricks
