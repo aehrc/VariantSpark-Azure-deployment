@@ -26,7 +26,7 @@ Bicep is free and supported by Microsoft support and is fun, easy, and productiv
 More resources available at this [Link](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview#benefits-of-bicep-versus-other-tools)
 
 ## Architecture and Key Features
-![Architecture](https://github.com/aehrc/VariantSpark-Azure-deployment/raw/master/Architecture.jpg)
+![Architecture](Architecture.jpg)
 
 
 
